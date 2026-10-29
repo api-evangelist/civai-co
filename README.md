@@ -64,5 +64,67 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-civai-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://civai.co/
+CIVAI is an AI-driven technology company delivering innovative solutions across multiple industries, including finance, healthcare, and productivity tools. Leveraging advanced artificial intelligence, CIVAI provides platforms such as Nova, BrowserGPT, Lagos Flood Map, and Cursor Agent Tools to help users make data-driven decisions, automate workflows, and mitigate risks. Their mission is to empower businesses and individuals worldwide to stay ahead in a rapidly evolving digital landscape.
+
+**Areas:** Company · AI · Technology · Platform · Africa
+
+## civai-co on APIs.io
+
+Everything profiled for civai-co is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/civai-co/](https://apis.io/providers/civai-co/)** — or go straight to one of the APIs or properties below.
+
+### APIs (26)
+
+- civai-co Accounts API — The accounts API from civai-co — 6 operation(s) for accounts.
+- civai-co Activity API — The activity API from civai-co — 1 operation(s) for activity.
+- civai-co Admin Growth API — The admin-growth API from civai-co — 8 operation(s) for admin-growth.
+- civai-co Ads API — The ads API from civai-co — 13 operation(s) for ads.
+- civai-co Assets API — The assets API from civai-co — 31 operation(s) for assets.
+- civai-co Assets Public API — The assets-public API from civai-co — 2 operation(s) for assets-public.
+- civai-co Audience Resolver API — The Audience Resolver API API from civai-co — 1 operation(s) for audience resolver api.
+- civai-co Auth API — The auth API from civai-co — 4 operation(s) for auth.
+- civai-co Content Calendars API — The content-calendars API from civai-co — 21 operation(s) for content-calendars.
+- civai-co Credits API — The credits API from civai-co — 9 operation(s) for credits.
+- civai-co Document Assets API — The document-assets API from civai-co — 8 operation(s) for document-assets.
+- civai-co Health API — The Health API from civai-co — 1 operation(s) for health.
+- civai-co Projects API — The projects API from civai-co — 3 operation(s) for projects.
+- civai-co Publisher API — The publisher API from civai-co — 11 operation(s) for publisher.
+- civai-co Publisher Calendars API — The publisher-calendars API from civai-co — 16 operation(s) for publisher-calendars.
+- civai-co Publisher Documents API — The publisher-documents API from civai-co — 4 operation(s) for publisher-documents.
+- civai-co Publisher Extended API — The publisher-extended API from civai-co — 13 operation(s) for publisher-extended.
+- civai-co Publisher Project Assets API — The publisher-project-assets API from civai-co — 6 operation(s) for publisher-project-assets.
+- civai-co Publisher Projects API — The publisher-projects API from civai-co — 3 operation(s) for publisher-projects.
+- civai-co Publisher Publishing API — The publisher-publishing API from civai-co — 7 operation(s) for publisher-publishing.
+- civai-co Publisher Research API — The publisher-research API from civai-co — 12 operation(s) for publisher-research.
+- civai-co Publisher Social API — The publisher-social API from civai-co — 1 operation(s) for publisher-social.
+- civai-co Publishing API — The publishing API from civai-co — 8 operation(s) for publishing.
+- civai-co Research API — The research API from civai-co — 12 operation(s) for research.
+- civai-co Teams API — The teams API from civai-co — 9 operation(s) for teams.
+- civai-co User Settings API — The user-settings API from civai-co — 2 operation(s) for user-settings.
+
+_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://civai.co/)
+- [Documentation](https://civai.co/about-us)
+- [Support](https://civai.co/contact)
+- [Blog](https://blog.civai.co/)
+- [Privacy policy](https://civai.co/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/civai-co/](https://apis.io/providers/civai-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for civai-co: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/civai-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
