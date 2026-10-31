@@ -74,34 +74,96 @@ Everything profiled for civai-co is published on APIs.io rather than in this rep
 
 ### APIs (26)
 
-- civai-co Accounts API — The accounts API from civai-co — 6 operation(s) for accounts.
-- civai-co Activity API — The activity API from civai-co — 1 operation(s) for activity.
-- civai-co Admin Growth API — The admin-growth API from civai-co — 8 operation(s) for admin-growth.
-- civai-co Ads API — The ads API from civai-co — 13 operation(s) for ads.
-- civai-co Assets API — The assets API from civai-co — 31 operation(s) for assets.
-- civai-co Assets Public API — The assets-public API from civai-co — 2 operation(s) for assets-public.
-- civai-co Audience Resolver API — The Audience Resolver API API from civai-co — 1 operation(s) for audience resolver api.
-- civai-co Auth API — The auth API from civai-co — 4 operation(s) for auth.
-- civai-co Content Calendars API — The content-calendars API from civai-co — 21 operation(s) for content-calendars.
-- civai-co Credits API — The credits API from civai-co — 9 operation(s) for credits.
-- civai-co Document Assets API — The document-assets API from civai-co — 8 operation(s) for document-assets.
-- civai-co Health API — The Health API from civai-co — 1 operation(s) for health.
-- civai-co Projects API — The projects API from civai-co — 3 operation(s) for projects.
-- civai-co Publisher API — The publisher API from civai-co — 11 operation(s) for publisher.
-- civai-co Publisher Calendars API — The publisher-calendars API from civai-co — 16 operation(s) for publisher-calendars.
-- civai-co Publisher Documents API — The publisher-documents API from civai-co — 4 operation(s) for publisher-documents.
-- civai-co Publisher Extended API — The publisher-extended API from civai-co — 13 operation(s) for publisher-extended.
-- civai-co Publisher Project Assets API — The publisher-project-assets API from civai-co — 6 operation(s) for publisher-project-assets.
-- civai-co Publisher Projects API — The publisher-projects API from civai-co — 3 operation(s) for publisher-projects.
-- civai-co Publisher Publishing API — The publisher-publishing API from civai-co — 7 operation(s) for publisher-publishing.
-- civai-co Publisher Research API — The publisher-research API from civai-co — 12 operation(s) for publisher-research.
-- civai-co Publisher Social API — The publisher-social API from civai-co — 1 operation(s) for publisher-social.
-- civai-co Publishing API — The publishing API from civai-co — 8 operation(s) for publishing.
-- civai-co Research API — The research API from civai-co — 12 operation(s) for research.
-- civai-co Teams API — The teams API from civai-co — 9 operation(s) for teams.
-- civai-co User Settings API — The user-settings API from civai-co — 2 operation(s) for user-settings.
+- [civai-co Accounts API](https://apis.io/apis/civai-co/civai-co-accounts-api/) — The accounts API from civai-co — 6 operation(s) for accounts.
+- [civai-co Activity API](https://apis.io/apis/civai-co/civai-co-activity-api/) — The activity API from civai-co — 1 operation(s) for activity.
+- [civai-co Admin Growth API](https://apis.io/apis/civai-co/civai-co-admin-growth-api/) — The admin-growth API from civai-co — 8 operation(s) for admin-growth.
+- [civai-co Ads API](https://apis.io/apis/civai-co/civai-co-ads-api/) — The ads API from civai-co — 13 operation(s) for ads.
+- [civai-co Assets API](https://apis.io/apis/civai-co/civai-co-assets-api/) — The assets API from civai-co — 31 operation(s) for assets.
+- [civai-co Assets Public API](https://apis.io/apis/civai-co/civai-co-assets-public-api/) — The assets-public API from civai-co — 2 operation(s) for assets-public.
+- [civai-co Audience Resolver API](https://apis.io/apis/civai-co/civai-co-audience-resolver-api-api/) — The Audience Resolver API API from civai-co — 1 operation(s) for audience resolver api.
+- [civai-co Auth API](https://apis.io/apis/civai-co/civai-co-auth-api/) — The auth API from civai-co — 4 operation(s) for auth.
+- [civai-co Content Calendars API](https://apis.io/apis/civai-co/civai-co-content-calendars-api/) — The content-calendars API from civai-co — 21 operation(s) for content-calendars.
+- [civai-co Credits API](https://apis.io/apis/civai-co/civai-co-credits-api/) — The credits API from civai-co — 9 operation(s) for credits.
+- [civai-co Document Assets API](https://apis.io/apis/civai-co/civai-co-document-assets-api/) — The document-assets API from civai-co — 8 operation(s) for document-assets.
+- [civai-co Health API](https://apis.io/apis/civai-co/civai-co-health-api/) — The Health API from civai-co — 1 operation(s) for health.
+- [civai-co Projects API](https://apis.io/apis/civai-co/civai-co-projects-api/) — The projects API from civai-co — 3 operation(s) for projects.
+- [civai-co Publisher API](https://apis.io/apis/civai-co/civai-co-publisher-api/) — The publisher API from civai-co — 11 operation(s) for publisher.
+- [civai-co Publisher Calendars API](https://apis.io/apis/civai-co/civai-co-publisher-calendars-api/) — The publisher-calendars API from civai-co — 16 operation(s) for publisher-calendars.
+- [civai-co Publisher Documents API](https://apis.io/apis/civai-co/civai-co-publisher-documents-api/) — The publisher-documents API from civai-co — 4 operation(s) for publisher-documents.
+- [civai-co Publisher Extended API](https://apis.io/apis/civai-co/civai-co-publisher-extended-api/) — The publisher-extended API from civai-co — 13 operation(s) for publisher-extended.
+- [civai-co Publisher Project Assets API](https://apis.io/apis/civai-co/civai-co-publisher-project-assets-api/) — The publisher-project-assets API from civai-co — 6 operation(s) for publisher-project-assets.
+- [civai-co Publisher Projects API](https://apis.io/apis/civai-co/civai-co-publisher-projects-api/) — The publisher-projects API from civai-co — 3 operation(s) for publisher-projects.
+- [civai-co Publisher Publishing API](https://apis.io/apis/civai-co/civai-co-publisher-publishing-api/) — The publisher-publishing API from civai-co — 7 operation(s) for publisher-publishing.
+- [civai-co Publisher Research API](https://apis.io/apis/civai-co/civai-co-publisher-research-api/) — The publisher-research API from civai-co — 12 operation(s) for publisher-research.
+- [civai-co Publisher Social API](https://apis.io/apis/civai-co/civai-co-publisher-social-api/) — The publisher-social API from civai-co — 1 operation(s) for publisher-social.
+- [civai-co Publishing API](https://apis.io/apis/civai-co/civai-co-publishing-api/) — The publishing API from civai-co — 8 operation(s) for publishing.
+- [civai-co Research API](https://apis.io/apis/civai-co/civai-co-research-api/) — The research API from civai-co — 12 operation(s) for research.
+- [civai-co Teams API](https://apis.io/apis/civai-co/civai-co-teams-api/) — The teams API from civai-co — 9 operation(s) for teams.
+- [civai-co User Settings API](https://apis.io/apis/civai-co/civai-co-user-settings-api/) — The user-settings API from civai-co — 2 operation(s) for user-settings.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Civai Co Agentic Access](https://apis.io/agentic-access/civai-co/civai-co-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AdPlanCreate](https://apis.io/schemas/civai-co/civai-co-ad-plan-create/)
+- [AdPlanUpdate](https://apis.io/schemas/civai-co/civai-co-ad-plan-update/)
+- [CreateRowRequest](https://apis.io/schemas/civai-co/civai-co-create-row-request/)
+- [GenerateImageRequest](https://apis.io/schemas/civai-co/civai-co-generate-image-request/)
+- [PatchRowRequest](https://apis.io/schemas/civai-co/civai-co-patch-row-request/)
+- [ProjectCreate](https://apis.io/schemas/civai-co/civai-co-project-create/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Civai Co Context](https://apis.io/jsonld/civai-co/civai-co-context/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Civai Co Openapi Overlay](https://apis.io/overlays/civai-co/civai-co-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [civai-co API Rules](https://apis.io/rules/civai-co/civai-co-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Civai Co Authentication](https://apis.io/security/civai-co/civai-co-authentication/)
+- [Civai Co Domain Security](https://apis.io/security/civai-co/civai-co-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Civai Co Scopes](https://apis.io/scopes/civai-co/civai-co-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Civai Co Plans Pricing](https://apis.io/plans/civai-co/civai-co-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Civai Co Rate Limits](https://apis.io/rate-limits/civai-co/civai-co-rate-limits/)
 
 ## Where to find this API
 
@@ -115,7 +177,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/civai-co/](https://apis.io/providers/civai-co/).
+**Kin Score 37.0** — thin · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 52.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.1 |
+| Access clarity | 10.5 |
+
+**Agent readiness 34.2** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/civai-co/](https://apis.io/providers/civai-co/).
 
 ## How this profile is made
 
